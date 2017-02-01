@@ -1,0 +1,5 @@
+[winner] secure their place for the next round of champions league.
+The game that happen around [time_game] minute have been so intense. The losing team . From statistic it was shown that [most_attempt_team],
+dominated the game with [attempt_score] percent of attempt possesion. [winner] suprised [loser] with [goal] goal from [goal_scorer].
+[winner_scorer] [event] have made [winner] get champion title .
+Here are some highlight of the game :
